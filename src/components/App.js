@@ -43,6 +43,8 @@ function App() {
     }
   ]
 
+  console.log(pets)
+
   return (
     <div className="app">
       <Header />
